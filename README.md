@@ -1,0 +1,1 @@
+Guess My Number is an interactive game where the program randomly picks a number between 1-20 that the player tries to guess within a limited number of attempts. The game uses HTML for structure, CSS for styling, and JavaScript for logic like generating the random number, providing feedback on guesses.
